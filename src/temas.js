@@ -1,0 +1,27 @@
+// Programas especiales (rejilla «Programa especial» del APK): colores del plató, saludo, hashtag y rótulo.
+const pal = (suelo, suelo2, rayos, pantalla, columnas, focos, fondo) => ({ suelo, suelo2, rayos, pantalla, columnas, focos, fondo });
+export const THEMES = {
+  normal: { name: 'Normal', emoji: '⚡', paleta: null, hashtag: '#AltaTensión' },
+  prime: { name: 'Especial Prime Time', emoji: '🌟', banner: 'ESPECIAL PRIME TIME', hashtag: '#AltaTensiónPrime', festivo: true, paleta: pal('#2a1a6a', '#0a0420', ['#ffd21a', '#ffffff'], ['#b8860b', '#ffd21a', '#fff6c0'], [0xffd21a, 0xffffff, 0xffb000], [0xffffff, 0xffe680], 0x07040f),
+    saludo: '¡Bienvenidos a esta gala especial de Alta Tensión en prime time! Esta noche brillan más que nunca las bombillas.', extra: ['Y el bote de hoy… ¡es doble! Así que, mucha concentración.'] },
+  halloween: { name: 'Halloween', emoji: '🎃', banner: 'ESPECIAL HALLOWEEN', hashtag: '#AltaTensiónHalloween', paleta: pal('#2a0a3d', '#080210', ['#ff7a00', '#9b30ff'], ['#3a0a5a', '#ff7a00', '#ffb347'], [0xff7a00, 0x9b30ff, 0x30ff60], [0xff7a00, 0x9b30ff], 0x050208),
+    saludo: '¡Muajaja! Bienvenidos al especial de Halloween de Alta Tensión. Esta noche las bombillas parpadean… solas.' },
+  ninos: { name: 'Niños', emoji: '🧸', banner: 'ESPECIAL NIÑOS', hashtag: '#AltaTensiónNiños', festivo: true, paleta: pal('#00a6d6', '#00507a', ['#ffd60a', '#ff5ca8'], ['#ff5ca8', '#ffd60a', '#ffffff'], [0xff5ca8, 0xffd60a, 0x33e6ff], [0xffffff, 0xffd60a], 0x02101a),
+    saludo: '¡Hola, chicos y chicas! Bienvenidos al especial infantil de Alta Tensión. ¡Hoy los más listos son los más pequeños!' },
+  nochebuena: { name: 'Nochebuena', emoji: '🕯️', banner: 'ESPECIAL NOCHEBUENA', hashtag: '#AltaTensiónNochebuena', festivo: true, paleta: pal('#0a3a1a', '#021008', ['#ffd21a', '#ff2a2a'], ['#8a0010', '#ff2a2a', '#ffd21a'], [0xff2a2a, 0x2aff6a, 0xffd21a], [0xfff2c0, 0xff4a4a], 0x020804),
+    saludo: '¡Feliz Nochebuena! Bienvenidos a un Alta Tensión muy especial, con turrón, villancicos y bombillas de colores.' },
+  navidad: { name: 'Navidad', emoji: '🎄', banner: 'ESPECIAL NAVIDAD', hashtag: '#AltaTensiónNavidad', festivo: true, paleta: pal('#0a4a2a', '#021a0a', ['#ff2a2a', '#ffffff'], ['#0a6a2a', '#2aff6a', '#ffffff'], [0x2aff6a, 0xff2a2a, 0xffffff], [0xffffff, 0xff4a4a], 0x020c06),
+    saludo: '¡Feliz Navidad! Hoy el plató de Alta Tensión parece un árbol: ¡todo lleno de bombillas!' },
+  carnaval: { name: 'Carnaval', emoji: '🎭', banner: 'ESPECIAL CARNAVAL', hashtag: '#AltaTensiónCarnaval', festivo: true, paleta: pal('#5a0a8a', '#1a0230', ['#33e6ff', '#ffd21a'], ['#ff4fa8', '#a040ff', '#33e6ff'], [0xff4fa8, 0x33e6ff, 0xffd21a], [0xff4fa8, 0x33e6ff], 0x0a0214),
+    saludo: '¡Bienvenidos al especial de Carnaval! Disfraces, confeti y bombillas de todos los colores.' },
+  finano: { name: 'Fin de Año', emoji: '🥂', banner: 'ESPECIAL FIN DE AÑO', hashtag: '#AltaTensiónFinDeAño', festivo: true, paleta: pal('#1a1a3a', '#05050f', ['#ffd21a', '#c0c0c0'], ['#3a3a6a', '#c0c0ff', '#ffd21a'], [0xffd21a, 0xc0c0ff, 0xffffff], [0xffffff, 0xffd21a], 0x030308),
+    saludo: '¡Bienvenidos a la última noche del año en Alta Tensión! Antes de las uvas, unas cuantas bombillas.' },
+  verano: { name: 'Verano', emoji: '🏖️', banner: 'ESPECIAL VERANO', hashtag: '#AltaTensiónVerano', paleta: pal('#00b4d8', '#005a7a', ['#ffd166', '#ef476f'], ['#ef476f', '#ffd166', '#fff3b0'], [0xffd166, 0xef476f, 0x00f5d4], [0xffffff, 0xffd166], 0x021018),
+    saludo: '¡Bienvenidos al especial de verano de Alta Tensión! Crema solar, chanclas… y bombillas al sol.' },
+  sanvalentin: { name: 'San Valentín', emoji: '💘', banner: 'ESPECIAL SAN VALENTÍN', hashtag: '#AltaTensiónSanValentín', paleta: pal('#8a0a3a', '#2a0210', ['#ffccd5', '#ff4d6d'], ['#c9184a', '#ff8fa3', '#ffccd5'], [0xff4d6d, 0xffccd5, 0xff8fa3], [0xffccd5, 0xff4d6d], 0x0c0204),
+    saludo: '¡Feliz San Valentín! Hoy en Alta Tensión saltan chispas… y no solo en las bombillas.' },
+  famosos: { name: 'Famosos', emoji: '🎤', banner: 'ESPECIAL FAMOSOS', hashtag: '#AltaTensiónFamosos', festivo: true, paleta: pal('#3a0a6a', '#0a0220', ['#ffd21a', '#ff4fa8'], ['#a040ff', '#ff4fa8', '#ffd21a'], [0xffd21a, 0xff4fa8, 0xa040ff], [0xffffff, 0xffd21a], 0x06020f),
+    saludo: '¡Bienvenidos al especial de famosos de Alta Tensión! Hoy juegan caras muy conocidas por una buena causa.' },
+  especial300: { name: 'Especial 300 suscriptores', emoji: '🏆', banner: 'ESPECIAL 300 SUSCRIPTORES', hashtag: '#AltaTensión300', festivo: true, paleta: pal('#3a2a0a', '#0f0a02', ['#ffd21a', '#ffffff'], ['#b8860b', '#ffd21a', '#fff6c0'], [0xffd21a, 0xffffff, 0xffb000], [0xffffff, 0xffe680], 0x070502),
+    saludo: '¡Bienvenidos a este Alta Tensión tan especial! Está dedicado a los suscriptores del canal de YouTube «Ikeriano el campeón 2».', extra: ['¡Ya sois trescientos! Muchas gracias por estar ahí. ¡Vamos con el programa!'] },
+};

@@ -1,0 +1,1951 @@
+{
+"paneles": [
+{
+"t": "Son capitales de países europeos",
+"c": [
+"París",
+"Roma",
+"Berlín",
+"Lisboa",
+"Viena",
+"Atenas",
+"Dublín",
+"Varsovia",
+"Praga",
+"Budapest",
+"Oslo"
+],
+"i": [
+"Barcelona",
+"Milán",
+"Oporto",
+"Múnich",
+"Ginebra",
+"Estambul",
+"Róterdam"
+]
+},
+{
+"t": "Son países de América del Sur",
+"c": [
+"Argentina",
+"Chile",
+"Perú",
+"Colombia",
+"Brasil",
+"Uruguay",
+"Paraguay",
+"Bolivia",
+"Ecuador",
+"Venezuela",
+"Guyana",
+"Surinam"
+],
+"i": [
+"México",
+"Cuba",
+"Panamá",
+"Honduras",
+"Guatemala",
+"Nicaragua",
+"Costa Rica"
+]
+},
+{
+"t": "Son mamíferos",
+"c": [
+"Delfín",
+"Murciélago",
+"Ballena",
+"Ornitorrinco",
+"Canguro",
+"Elefante",
+"Foca",
+"Koala",
+"Jirafa",
+"Topo"
+],
+"i": [
+"Tiburón",
+"Pingüino",
+"Cocodrilo",
+"Avestruz",
+"Salmón",
+"Tortuga",
+"Rana"
+]
+},
+{
+"t": "Son planetas del sistema solar",
+"c": [
+"Mercurio",
+"Venus",
+"Tierra",
+"Marte",
+"Júpiter",
+"Saturno",
+"Urano",
+"Neptuno"
+],
+"i": [
+"Plutón",
+"Luna",
+"Sol",
+"Ceres",
+"Titán",
+"Ganímedes",
+"Sirio"
+]
+},
+{
+"t": "Las escribió Cervantes",
+"c": [
+"Don Quijote",
+"La Galatea",
+"Novelas ejemplares",
+"Los trabajos de Persiles y Sigismunda",
+"Rinconete y Cortadillo",
+"El coloquio de los perros",
+"La Numancia",
+"El licenciado Vidriera",
+"La gitanilla"
+],
+"i": [
+"La Celestina",
+"El Lazarillo de Tormes",
+"La vida es sueño",
+"Fuenteovejuna",
+"El burlador de Sevilla",
+"La Regenta",
+"Bodas de sangre"
+]
+},
+{
+"t": "Los pintó Velázquez",
+"c": [
+"Las Meninas",
+"Las hilanderas",
+"La rendición de Breda",
+"La fragua de Vulcano",
+"El aguador de Sevilla",
+"Los borrachos",
+"La Venus del espejo",
+"Cristo crucificado",
+"Retrato de Inocencio X",
+"Vieja friendo huevos"
+],
+"i": [
+"La maja desnuda",
+"El Guernica",
+"La persistencia de la memoria",
+"El jardín de las delicias",
+"Los fusilamientos del 3 de mayo",
+"La Gioconda",
+"El grito"
+]
+},
+{
+"t": "Son elementos químicos",
+"c": [
+"Oro",
+"Hierro",
+"Helio",
+"Neón",
+"Sodio",
+"Cobre",
+"Plata",
+"Carbono",
+"Oxígeno",
+"Uranio",
+"Zinc"
+],
+"i": [
+"Bronce",
+"Acero",
+"Agua",
+"Latón",
+"Diamante",
+"Sal",
+"Granito"
+]
+},
+{
+"t": "Son comunidades autónomas",
+"c": [
+"Andalucía",
+"Aragón",
+"Asturias",
+"Cantabria",
+"Galicia",
+"La Rioja",
+"Murcia",
+"Navarra",
+"Extremadura",
+"Cataluña",
+"Canarias"
+],
+"i": [
+"Albacete",
+"Bilbao",
+"León",
+"Almería",
+"Toledo",
+"Vigo",
+"Gijón"
+]
+},
+{
+"t": "Son ríos de España",
+"c": [
+"Ebro",
+"Tajo",
+"Duero",
+"Guadalquivir",
+"Guadiana",
+"Miño",
+"Júcar",
+"Segura",
+"Turia",
+"Genil",
+"Nalón"
+],
+"i": [
+"Sena",
+"Danubio",
+"Támesis",
+"Rin",
+"Po",
+"Loira",
+"Volga"
+]
+},
+{
+"t": "Son deportes olímpicos de verano",
+"c": [
+"Atletismo",
+"Natación",
+"Judo",
+"Esgrima",
+"Remo",
+"Tenis",
+"Baloncesto",
+"Balonmano",
+"Halterofilia",
+"Tiro con arco",
+"Gimnasia"
+],
+"i": [
+"Pádel",
+"Ajedrez",
+"Esquí alpino",
+"Curling",
+"Billar",
+"Petanca",
+"Dardos"
+]
+},
+{
+"t": "Son instrumentos de cuerda",
+"c": [
+"Violín",
+"Guitarra",
+"Arpa",
+"Violonchelo",
+"Contrabajo",
+"Viola",
+"Laúd",
+"Bandurria",
+"Ukelele",
+"Banjo",
+"Mandolina"
+],
+"i": [
+"Flauta",
+"Trompeta",
+"Clarinete",
+"Tambor",
+"Saxofón",
+"Xilófono",
+"Oboe"
+]
+},
+{
+"t": "Las escribió García Lorca",
+"c": [
+"Bodas de sangre",
+"Yerma",
+"La casa de Bernarda Alba",
+"Romancero gitano",
+"Poeta en Nueva York",
+"Mariana Pineda",
+"Doña Rosita la soltera",
+"Poema del cante jondo",
+"La zapatera prodigiosa",
+"Así que pasen cinco años"
+],
+"i": [
+"Platero y yo",
+"Campos de Castilla",
+"Luces de bohemia",
+"Niebla",
+"La colmena",
+"Nada",
+"Cien años de soledad"
+]
+},
+{
+"t": "Son películas de Pixar",
+"c": [
+"Toy Story",
+"Buscando a Nemo",
+"Up",
+"Coco",
+"Ratatouille",
+"Wall-E",
+"Cars",
+"Monstruos S.A.",
+"Los Increíbles",
+"Del revés",
+"Brave",
+"Luca"
+],
+"i": [
+"Shrek",
+"Frozen",
+"El rey león",
+"Aladdín",
+"Madagascar",
+"Kung Fu Panda",
+"Ice Age"
+]
+},
+{
+"t": "Pagan con euros",
+"c": [
+"España",
+"Francia",
+"Italia",
+"Alemania",
+"Portugal",
+"Grecia",
+"Irlanda",
+"Austria",
+"Finlandia",
+"Croacia",
+"Bélgica",
+"Países Bajos"
+],
+"i": [
+"Suecia",
+"Dinamarca",
+"Polonia",
+"Reino Unido",
+"Suiza",
+"Noruega",
+"Hungría",
+"República Checa"
+]
+},
+{
+"t": "Son frutas",
+"c": [
+"Mango",
+"Kiwi",
+"Papaya",
+"Fresa",
+"Cereza",
+"Ciruela",
+"Melocotón",
+"Piña",
+"Higo",
+"Granada",
+"Albaricoque"
+],
+"i": [
+"Lechuga",
+"Cebolla",
+"Ajo",
+"Espinaca",
+"Puerro",
+"Coliflor",
+"Apio"
+]
+},
+{
+"t": "Han ganado un Mundial de fútbol",
+"c": [
+"Brasil",
+"Alemania",
+"Italia",
+"Argentina",
+"Francia",
+"Uruguay",
+"Inglaterra",
+"España"
+],
+"i": [
+"Países Bajos",
+"Portugal",
+"Croacia",
+"México",
+"Bélgica",
+"Suecia",
+"Hungría"
+]
+},
+{
+"t": "Se inventaron en el siglo XX",
+"c": [
+"Televisión",
+"Internet",
+"Microondas",
+"Teléfono móvil",
+"Láser",
+"Avión",
+"Transistor",
+"Bolígrafo",
+"Fregona",
+"GPS",
+"Chupa Chups"
+],
+"i": [
+"Imprenta",
+"Brújula",
+"Teléfono",
+"Bombilla",
+"Máquina de vapor",
+"Telescopio",
+"Pararrayos"
+]
+},
+{
+"t": "Son huesos del cuerpo humano",
+"c": [
+"Fémur",
+"Tibia",
+"Peroné",
+"Húmero",
+"Cúbito",
+"Radio",
+"Esternón",
+"Clavícula",
+"Rótula",
+"Omóplato",
+"Estribo"
+],
+"i": [
+"Bíceps",
+"Tríceps",
+"Glúteo",
+"Tendón de Aquiles",
+"Páncreas",
+"Diafragma",
+"Hígado"
+]
+},
+{
+"t": "Las baña el Mediterráneo",
+"c": [
+"Barcelona",
+"Valencia",
+"Málaga",
+"Alicante",
+"Marsella",
+"Nápoles",
+"Niza",
+"Palma",
+"Génova",
+"Tarragona",
+"Argel",
+"Beirut"
+],
+"i": [
+"Lisboa",
+"Bilbao",
+"Cádiz",
+"Oporto",
+"Burdeos",
+"Santander",
+"Huelva"
+]
+},
+{
+"t": "Son lenguajes de programación",
+"c": [
+"Python",
+"Java",
+"JavaScript",
+"C++",
+"Ruby",
+"PHP",
+"Swift",
+"Kotlin",
+"Go",
+"Rust"
+],
+"i": [
+"Photoshop",
+"Linux",
+"Excel",
+"Windows",
+"Android",
+"Chrome",
+"WhatsApp"
+]
+},
+{
+"t": "Son personajes de Harry Potter",
+"c": [
+"Hermione",
+"Ron",
+"Dumbledore",
+"Snape",
+"Hagrid",
+"Voldemort",
+"Draco Malfoy",
+"Sirius Black",
+"Dobby",
+"Neville"
+],
+"i": [
+"Gandalf",
+"Frodo",
+"Legolas",
+"Aragorn",
+"Gollum",
+"Bilbo",
+"Sauron"
+]
+},
+{
+"t": "Son óperas de Verdi",
+"c": [
+"La traviata",
+"Aida",
+"Rigoletto",
+"Nabucco",
+"Otello",
+"Falstaff",
+"Il trovatore",
+"Don Carlo",
+"Macbeth",
+"La forza del destino"
+],
+"i": [
+"Carmen",
+"La flauta mágica",
+"Madama Butterfly",
+"Tosca",
+"La bohème",
+"El barbero de Sevilla",
+"Turandot"
+]
+},
+{
+"t": "Son superhéroes de Marvel",
+"c": [
+"Spider-Man",
+"Iron Man",
+"Thor",
+"Hulk",
+"Capitán América",
+"Lobezno",
+"Viuda Negra",
+"Pantera Negra",
+"Doctor Extraño",
+"Ojo de Halcón",
+"Deadpool"
+],
+"i": [
+"Batman",
+"Superman",
+"Wonder Woman",
+"Flash",
+"Aquaman",
+"Linterna Verde",
+"Robin"
+]
+},
+{
+"t": "Son islas españolas",
+"c": [
+"Tenerife",
+"Mallorca",
+"Menorca",
+"Ibiza",
+"Formentera",
+"Lanzarote",
+"Fuerteventura",
+"Gran Canaria",
+"La Gomera",
+"El Hierro",
+"La Palma",
+"Cabrera"
+],
+"i": [
+"Madeira",
+"Córcega",
+"Cerdeña",
+"Sicilia",
+"Malta",
+"Creta",
+"Azores"
+]
+},
+{
+"t": "Eran dinosaurios",
+"c": [
+"Tiranosaurio",
+"Velocirraptor",
+"Triceratops",
+"Diplodocus",
+"Estegosaurio",
+"Braquiosaurio",
+"Iguanodón",
+"Espinosaurio",
+"Anquilosaurio",
+"Parasaurolofus"
+],
+"i": [
+"Mamut",
+"Tigre dientes de sable",
+"Megalodón",
+"Dodo",
+"Pterodáctilo",
+"Plesiosaurio",
+"Ictiosaurio"
+]
+},
+{
+"t": "Ganaron el Nobel de Literatura escribiendo en español",
+"c": [
+"García Márquez",
+"Pablo Neruda",
+"Vargas Llosa",
+"Octavio Paz",
+"Camilo José Cela",
+"Vicente Aleixandre",
+"Juan Ramón Jiménez",
+"Gabriela Mistral",
+"Miguel Ángel Asturias",
+"Jacinto Benavente",
+"José Echegaray"
+],
+"i": [
+"Jorge Luis Borges",
+"Julio Cortázar",
+"Miguel Delibes",
+"Pérez Galdós",
+"Isabel Allende",
+"García Lorca",
+"Antonio Machado"
+]
+},
+{
+"t": "Son grupos musicales españoles",
+"c": [
+"Mecano",
+"La Oreja de Van Gogh",
+"Héroes del Silencio",
+"Estopa",
+"Amaral",
+"El Canto del Loco",
+"Los Secretos",
+"Hombres G",
+"Jarabe de Palo",
+"Vetusta Morla",
+"Love of Lesbian"
+],
+"i": [
+"ABBA",
+"Queen",
+"U2",
+"Coldplay",
+"Maná",
+"Soda Stereo",
+"Los Prisioneros"
+]
+},
+{
+"t": "Están en Italia",
+"c": [
+"Coliseo",
+"Torre de Pisa",
+"Fontana di Trevi",
+"Panteón de Agripa",
+"Puente de Rialto",
+"Duomo de Florencia",
+"Arena de Verona",
+"Ponte Vecchio",
+"Plaza de San Marcos",
+"Galería Vittorio Emanuele II"
+],
+"i": [
+"Alhambra",
+"Torre Eiffel",
+"Big Ben",
+"Partenón",
+"Puerta de Brandeburgo",
+"Sagrada Familia",
+"Atomium"
+]
+},
+{
+"t": "Son monedas en uso hoy",
+"c": [
+"Yen",
+"Dólar",
+"Libra esterlina",
+"Rublo",
+"Rupia",
+"Yuan",
+"Peso mexicano",
+"Franco suizo",
+"Corona sueca",
+"Real brasileño",
+"Won"
+],
+"i": [
+"Peseta",
+"Marco alemán",
+"Franco francés",
+"Lira italiana",
+"Escudo portugués",
+"Dracma",
+"Florín"
+]
+},
+{
+"t": "Son sinónimos de rápido",
+"c": [
+"Veloz",
+"Raudo",
+"Ligero",
+"Presto",
+"Ágil",
+"Pronto",
+"Vertiginoso",
+"Acelerado",
+"Expedito",
+"Diligente"
+],
+"i": [
+"Lento",
+"Pausado",
+"Tardo",
+"Calmoso",
+"Parsimonioso",
+"Cachazudo",
+"Pesado"
+]
+},
+{
+"t": "Ponen huevos",
+"c": [
+"Gallina",
+"Ornitorrinco",
+"Cocodrilo",
+"Tortuga",
+"Salmón",
+"Pingüino",
+"Rana",
+"Avestruz",
+"Equidna",
+"Abeja"
+],
+"i": [
+"Delfín",
+"Murciélago",
+"Canguro",
+"Ballena",
+"Caballo",
+"Vaca",
+"Gato"
+]
+},
+{
+"t": "Las escribió Shakespeare",
+"c": [
+"Hamlet",
+"Macbeth",
+"Otelo",
+"El rey Lear",
+"Romeo y Julieta",
+"La tempestad",
+"Julio César",
+"El mercader de Venecia",
+"Sueño de una noche de verano",
+"Mucho ruido y pocas nueces",
+"Ricardo III"
+],
+"i": [
+"Fausto",
+"Don Juan Tenorio",
+"La divina comedia",
+"Los miserables",
+"Orgullo y prejuicio",
+"El conde de Montecristo",
+"Moby Dick"
+]
+},
+{
+"t": "Son juegos de mesa",
+"c": [
+"Parchís",
+"Ajedrez",
+"La oca",
+"Damas",
+"Monopoly",
+"Trivial",
+"Scrabble",
+"Risk",
+"Cluedo",
+"Catán",
+"Dominó"
+],
+"i": [
+"Tetris",
+"Fortnite",
+"Minecraft",
+"Pac-Man",
+"Mario Kart",
+"FIFA",
+"Zelda"
+]
+},
+{
+"t": "Son países de África",
+"c": [
+"Marruecos",
+"Egipto",
+"Nigeria",
+"Kenia",
+"Senegal",
+"Ghana",
+"Etiopía",
+"Angola",
+"Mozambique",
+"Camerún",
+"Túnez",
+"Argelia"
+],
+"i": [
+"Jordania",
+"Yemen",
+"Omán",
+"Irán",
+"Siria",
+"Líbano",
+"Pakistán"
+]
+},
+{
+"t": "Son mares (no océanos ni lagos)",
+"c": [
+"Mediterráneo",
+"Cantábrico",
+"Caribe",
+"Báltico",
+"Negro",
+"Rojo",
+"Adriático",
+"Egeo",
+"Jónico",
+"De Alborán",
+"Del Norte"
+],
+"i": [
+"Pacífico",
+"Atlántico",
+"Índico",
+"Ártico",
+"Titicaca",
+"Baikal",
+"Victoria"
+]
+},
+{
+"t": "Son tipos de pasta",
+"c": [
+"Macarrones",
+"Espaguetis",
+"Tallarines",
+"Lasaña",
+"Raviolis",
+"Fusilli",
+"Penne",
+"Tortellini",
+"Canelones",
+"Farfalle",
+"Fideos"
+],
+"i": [
+"Cruasán",
+"Baguette",
+"Churro",
+"Ensaimada",
+"Magdalena",
+"Rosquilla",
+"Brioche"
+]
+},
+{
+"t": "Son consolas de videojuegos",
+"c": [
+"PlayStation",
+"Xbox",
+"Nintendo Switch",
+"Game Boy",
+"Wii",
+"Mega Drive",
+"Nintendo 64",
+"Dreamcast",
+"GameCube",
+"PSP",
+"Nintendo DS"
+],
+"i": [
+"iPad",
+"Kindle",
+"Walkman",
+"Tamagotchi",
+"Discman",
+"Smartwatch",
+"Chromecast"
+]
+},
+{
+"t": "Son directores de cine españoles",
+"c": [
+"Pedro Almodóvar",
+"Luis Buñuel",
+"Alejandro Amenábar",
+"Isabel Coixet",
+"J. A. Bayona",
+"Carlos Saura",
+"Fernando Trueba",
+"Icíar Bollaín",
+"Álex de la Iglesia",
+"Berlanga",
+"Rodrigo Sorogoyen"
+],
+"i": [
+"Steven Spielberg",
+"Guillermo del Toro",
+"Alfonso Cuarón",
+"Quentin Tarantino",
+"Martin Scorsese",
+"Federico Fellini",
+"Woody Allen"
+]
+},
+{
+"t": "Son signos del zodiaco",
+"c": [
+"Aries",
+"Tauro",
+"Géminis",
+"Cáncer",
+"Leo",
+"Virgo",
+"Libra",
+"Escorpio",
+"Sagitario",
+"Capricornio",
+"Acuario",
+"Piscis"
+],
+"i": [
+"Orión",
+"Osa Mayor",
+"Casiopea",
+"Pegaso",
+"Andrómeda",
+"Can Mayor",
+"Perseo"
+]
+},
+{
+"t": "Son verduras u hortalizas",
+"c": [
+"Lechuga",
+"Zanahoria",
+"Pimiento",
+"Berenjena",
+"Calabacín",
+"Puerro",
+"Coliflor",
+"Brócoli",
+"Espinaca",
+"Alcachofa",
+"Pepino"
+],
+"i": [
+"Plátano",
+"Pera",
+"Manzana",
+"Uva",
+"Melón",
+"Sandía",
+"Naranja"
+]
+},
+{
+"t": "Son capitales de países de América",
+"c": [
+"Buenos Aires",
+"Santiago de Chile",
+"Lima",
+"Bogotá",
+"Caracas",
+"Quito",
+"Montevideo",
+"Asunción",
+"Ciudad de México",
+"La Habana",
+"Ottawa",
+"Washington"
+],
+"i": [
+"Río de Janeiro",
+"Nueva York",
+"Toronto",
+"Guayaquil",
+"Medellín",
+"Córdoba",
+"Valparaíso"
+]
+},
+{
+"t": "Son dioses griegos",
+"c": [
+"Zeus",
+"Hera",
+"Poseidón",
+"Atenea",
+"Apolo",
+"Artemisa",
+"Ares",
+"Afrodita",
+"Hermes",
+"Hefesto",
+"Dioniso",
+"Deméter"
+],
+"i": [
+"Odín",
+"Thor",
+"Ra",
+"Anubis",
+"Júpiter",
+"Marte",
+"Venus"
+]
+},
+{
+"t": "Han ganado LaLiga",
+"c": [
+"Real Madrid",
+"Barcelona",
+"Atlético de Madrid",
+"Athletic Club",
+"Valencia",
+"Real Sociedad",
+"Deportivo de La Coruña",
+"Sevilla",
+"Real Betis"
+],
+"i": [
+"Villarreal",
+"Celta de Vigo",
+"Espanyol",
+"Getafe",
+"Osasuna",
+"Málaga",
+"Real Zaragoza"
+]
+},
+{
+"t": "Salen en el Quijote",
+"c": [
+"Sancho Panza",
+"Dulcinea",
+"Rocinante",
+"Rucio",
+"Sansón Carrasco",
+"Maritornes",
+"Ginés de Pasamonte",
+"El cura",
+"El barbero",
+"Altisidora"
+],
+"i": [
+"Lazarillo",
+"Celestina",
+"Melibea",
+"Segismundo",
+"Don Juan Tenorio",
+"Marianela",
+"Fortunata"
+]
+},
+{
+"t": "Viven en la sabana africana",
+"c": [
+"León",
+"Cebra",
+"Jirafa",
+"Hipopótamo",
+"Rinoceronte",
+"Ñu",
+"Guepardo",
+"Hiena",
+"Elefante africano",
+"Suricata",
+"Gacela"
+],
+"i": [
+"Canguro",
+"Koala",
+"Panda",
+"Tigre",
+"Oso polar",
+"Pingüino",
+"Bisonte"
+]
+}
+],
+"musicales": [
+{
+"t": "Canciones de Mecano",
+"c": [
+"Hijo de la Luna",
+"Cruz de navajas",
+"Me cuesta tanto olvidarte",
+"La fuerza del destino",
+"Mujer contra mujer",
+"Hoy no me puedo levantar",
+"Barco a Venus",
+"Me colé en una fiesta",
+"El 7 de septiembre",
+"Maquillaje"
+],
+"i": [
+"Entre dos tierras",
+"La flaca",
+"Rosas",
+"Devuélveme a mi chica",
+"Sin documentos",
+"Corazón partío",
+"Chiquilla"
+],
+"musical": true
+},
+{
+"t": "Canciones de los Beatles",
+"c": [
+"Yesterday",
+"Let It Be",
+"Hey Jude",
+"Help!",
+"Yellow Submarine",
+"Something",
+"Come Together",
+"Michelle",
+"Penny Lane",
+"All You Need Is Love",
+"Here Comes the Sun"
+],
+"i": [
+"Bohemian Rhapsody",
+"Imagine",
+"Satisfaction",
+"Thriller",
+"Like a Rolling Stone",
+"Wonderwall",
+"Hotel California"
+],
+"musical": true
+},
+{
+"t": "Canciones de ABBA",
+"c": [
+"Dancing Queen",
+"Mamma Mia",
+"Waterloo",
+"Fernando",
+"Chiquitita",
+"Gimme! Gimme! Gimme!",
+"The Winner Takes It All",
+"Super Trouper",
+"SOS",
+"Take a Chance on Me"
+],
+"i": [
+"I Will Survive",
+"Y.M.C.A.",
+"Like a Prayer",
+"Girls Just Want to Have Fun",
+"Don't Stop Me Now",
+"Billie Jean",
+"Staying Alive"
+],
+"musical": true
+},
+{
+"t": "Canciones de Queen",
+"c": [
+"Bohemian Rhapsody",
+"We Will Rock You",
+"We Are the Champions",
+"Don't Stop Me Now",
+"Somebody to Love",
+"Radio Ga Ga",
+"I Want to Break Free",
+"Another One Bites the Dust",
+"Killer Queen",
+"The Show Must Go On"
+],
+"i": [
+"Stairway to Heaven",
+"Smoke on the Water",
+"Highway to Hell",
+"Sweet Child o' Mine",
+"Livin' on a Prayer",
+"Born to Run",
+"Imagine"
+],
+"musical": true
+},
+{
+"t": "Canciones de España en Eurovisión",
+"c": [
+"La, la, la",
+"Vivo cantando",
+"Eres tú",
+"Bailar pegados",
+"Europe's Living a Celebration",
+"La venda",
+"SloMo",
+"Eaea",
+"Zorra",
+"Tu canción",
+"Dile que la quiero"
+],
+"i": [
+"Waterloo",
+"Euphoria",
+"Fuego",
+"Arcade",
+"Toy",
+"Soldi",
+"Ne partez pas sans moi"
+],
+"musical": true
+},
+{
+"t": "Canciones de Rosalía",
+"c": [
+"Malamente",
+"Pienso en tu mirá",
+"Con altura",
+"Despechá",
+"Saoko",
+"Bizcochito",
+"Candy",
+"Motomami",
+"Juro que",
+"Di mi nombre"
+],
+"i": [
+"Despacito",
+"Gasolina",
+"Bichota",
+"Tusa",
+"Mi gente",
+"La bicicleta",
+"Hawái"
+],
+"musical": true
+},
+{
+"t": "Canciones de Alejandro Sanz",
+"c": [
+"Corazón partío",
+"Amiga mía",
+"Y si fuera ella",
+"Mi soledad y yo",
+"Cuando nadie me ve",
+"Quisiera ser",
+"No es lo mismo",
+"Si hay Dios",
+"Looking for Paradise",
+"Pisando fuerte"
+],
+"i": [
+"Hijo de la Luna",
+"Bulería",
+"La flaca",
+"Vivir mi vida",
+"Color esperanza",
+"Entre dos tierras",
+"Princesas"
+],
+"musical": true
+}
+],
+"parejas": [
+{
+"t": "País y su capital",
+"p": [
+[
+"Francia",
+"París"
+],
+[
+"Italia",
+"Roma"
+],
+[
+"Portugal",
+"Lisboa"
+],
+[
+"Alemania",
+"Berlín"
+],
+[
+"Japón",
+"Tokio"
+],
+[
+"Egipto",
+"El Cairo"
+],
+[
+"Perú",
+"Lima"
+],
+[
+"Canadá",
+"Ottawa"
+],
+[
+"Grecia",
+"Atenas"
+]
+]
+},
+{
+"t": "Autor y su obra",
+"p": [
+[
+"Cervantes",
+"El Quijote"
+],
+[
+"Shakespeare",
+"Hamlet"
+],
+[
+"García Márquez",
+"Cien años de soledad"
+],
+[
+"Lorca",
+"Bodas de sangre"
+],
+[
+"Tolkien",
+"El Señor de los Anillos"
+],
+[
+"Orwell",
+"1984"
+],
+[
+"Homero",
+"La Odisea"
+],
+[
+"Dante",
+"La divina comedia"
+],
+[
+"J. K. Rowling",
+"Harry Potter"
+]
+]
+},
+{
+"t": "Pintor y su cuadro",
+"p": [
+[
+"Picasso",
+"Guernica"
+],
+[
+"Velázquez",
+"Las Meninas"
+],
+[
+"Goya",
+"La maja desnuda"
+],
+[
+"Leonardo",
+"La Gioconda"
+],
+[
+"Munch",
+"El grito"
+],
+[
+"Dalí",
+"La persistencia de la memoria"
+],
+[
+"Van Gogh",
+"La noche estrellada"
+],
+[
+"Botticelli",
+"El nacimiento de Venus"
+],
+[
+"El Bosco",
+"El jardín de las delicias"
+]
+]
+},
+{
+"t": "Elemento y su símbolo",
+"p": [
+[
+"Oro",
+"Au"
+],
+[
+"Plata",
+"Ag"
+],
+[
+"Hierro",
+"Fe"
+],
+[
+"Sodio",
+"Na"
+],
+[
+"Potasio",
+"K"
+],
+[
+"Plomo",
+"Pb"
+],
+[
+"Cobre",
+"Cu"
+],
+[
+"Helio",
+"He"
+],
+[
+"Mercurio",
+"Hg"
+]
+]
+},
+{
+"t": "Animal y su cría",
+"p": [
+[
+"Vaca",
+"Ternero"
+],
+[
+"Caballo",
+"Potro"
+],
+[
+"Oveja",
+"Cordero"
+],
+[
+"Perro",
+"Cachorro"
+],
+[
+"Cerdo",
+"Lechón"
+],
+[
+"Gallina",
+"Pollito"
+],
+[
+"Rana",
+"Renacuajo"
+],
+[
+"Cabra",
+"Cabrito"
+],
+[
+"Burro",
+"Pollino"
+]
+]
+},
+{
+"t": "Ciudad y su monumento",
+"p": [
+[
+"París",
+"Torre Eiffel"
+],
+[
+"Granada",
+"Alhambra"
+],
+[
+"Roma",
+"Coliseo"
+],
+[
+"Londres",
+"Big Ben"
+],
+[
+"Agra",
+"Taj Mahal"
+],
+[
+"Barcelona",
+"Sagrada Familia"
+],
+[
+"Atenas",
+"Partenón"
+],
+[
+"Nueva York",
+"Estatua de la Libertad"
+],
+[
+"Río de Janeiro",
+"Cristo Redentor"
+]
+]
+},
+{
+"t": "País y su moneda",
+"p": [
+[
+"Japón",
+"Yen"
+],
+[
+"Reino Unido",
+"Libra"
+],
+[
+"Rusia",
+"Rublo"
+],
+[
+"India",
+"Rupia"
+],
+[
+"China",
+"Yuan"
+],
+[
+"Suiza",
+"Franco"
+],
+[
+"Brasil",
+"Real"
+],
+[
+"México",
+"Peso"
+],
+[
+"Corea del Sur",
+"Won"
+]
+]
+},
+{
+"t": "Superhéroe y su identidad",
+"p": [
+[
+"Batman",
+"Bruce Wayne"
+],
+[
+"Superman",
+"Clark Kent"
+],
+[
+"Spider-Man",
+"Peter Parker"
+],
+[
+"Iron Man",
+"Tony Stark"
+],
+[
+"Hulk",
+"Bruce Banner"
+],
+[
+"Capitán América",
+"Steve Rogers"
+],
+[
+"Wonder Woman",
+"Diana Prince"
+],
+[
+"Flash",
+"Barry Allen"
+],
+[
+"Lobezno",
+"Logan"
+]
+]
+},
+{
+"t": "Grupo y su cantante",
+"p": [
+[
+"Héroes del Silencio",
+"Enrique Bunbury"
+],
+[
+"Queen",
+"Freddie Mercury"
+],
+[
+"U2",
+"Bono"
+],
+[
+"Mecano",
+"Ana Torroja"
+],
+[
+"La Oreja de Van Gogh",
+"Amaia Montero"
+],
+[
+"Jarabe de Palo",
+"Pau Donés"
+],
+[
+"The Police",
+"Sting"
+],
+[
+"Nirvana",
+"Kurt Cobain"
+],
+[
+"Oasis",
+"Liam Gallagher"
+]
+]
+}
+],
+"jaque": [
+{
+"p": "¿Cuántos lados tiene un hexágono?",
+"op": [
+"Cinco",
+"Seis",
+"Ocho"
+],
+"r": 1
+},
+{
+"p": "¿Qué planeta es conocido como el planeta rojo?",
+"op": [
+"Marte",
+"Venus",
+"Júpiter"
+],
+"r": 0
+},
+{
+"p": "¿En qué año llegó Colón a América?",
+"op": [
+"1492",
+"1512",
+"1453"
+],
+"r": 0
+},
+{
+"p": "¿Cuál es el río más largo de la península ibérica?",
+"op": [
+"Ebro",
+"Duero",
+"Tajo"
+],
+"r": 2
+},
+{
+"p": "¿Cuántos jugadores de un equipo de baloncesto hay en la pista?",
+"op": [
+"Cinco",
+"Seis",
+"Siete"
+],
+"r": 0
+},
+{
+"p": "¿Quién pintó el Guernica?",
+"op": [
+"Dalí",
+"Picasso",
+"Miró"
+],
+"r": 1
+},
+{
+"p": "¿Cuál es la capital de Australia?",
+"op": [
+"Sídney",
+"Melbourne",
+"Canberra"
+],
+"r": 2
+},
+{
+"p": "¿Cuál es el océano más grande?",
+"op": [
+"Atlántico",
+"Pacífico",
+"Índico"
+],
+"r": 1
+},
+{
+"p": "¿Qué instrumento tocaba Paco de Lucía?",
+"op": [
+"Piano",
+"Guitarra",
+"Violín"
+],
+"r": 1
+},
+{
+"p": "¿Cuántos minutos son hora y media?",
+"op": [
+"Noventa",
+"Ochenta",
+"Cien"
+],
+"r": 0
+},
+{
+"p": "¿En qué continente está Egipto?",
+"op": [
+"Asia",
+"África",
+"Europa"
+],
+"r": 1
+},
+{
+"p": "¿Qué metal tiene el símbolo Fe?",
+"op": [
+"Hierro",
+"Plata",
+"Plomo"
+],
+"r": 0
+},
+{
+"p": "¿Cuántas cuerdas tiene una guitarra española?",
+"op": [
+"Cuatro",
+"Seis",
+"Doce"
+],
+"r": 1
+},
+{
+"p": "¿Cuál es el animal terrestre más rápido?",
+"op": [
+"León",
+"Guepardo",
+"Caballo"
+],
+"r": 1
+},
+{
+"p": "¿Qué gas necesitamos respirar para vivir?",
+"op": [
+"Oxígeno",
+"Helio",
+"Nitrógeno"
+],
+"r": 0
+}
+],
+"imagenes": [
+{
+"e": "🗼",
+"op": [
+"Torre Eiffel",
+"Big Ben",
+"Torre de Pisa"
+],
+"r": 0
+},
+{
+"e": "🗽",
+"op": [
+"Estatua de la Libertad",
+"Cristo Redentor",
+"La Sirenita"
+],
+"r": 0
+},
+{
+"e": "🎻",
+"op": [
+"Guitarra",
+"Violín",
+"Arpa"
+],
+"r": 1
+},
+{
+"e": "🦒",
+"op": [
+"Camello",
+"Jirafa",
+"Llama"
+],
+"r": 1
+},
+{
+"e": "🌋",
+"op": [
+"Montaña",
+"Glaciar",
+"Volcán"
+],
+"r": 2
+},
+{
+"e": "🎡",
+"op": [
+"Noria",
+"Tiovivo",
+"Montaña rusa"
+],
+"r": 0
+},
+{
+"e": "🦉",
+"op": [
+"Halcón",
+"Búho",
+"Loro"
+],
+"r": 1
+},
+{
+"e": "🍍",
+"op": [
+"Mango",
+"Coco",
+"Piña"
+],
+"r": 2
+},
+{
+"e": "🐙",
+"op": [
+"Calamar",
+"Pulpo",
+"Medusa"
+],
+"r": 1
+},
+{
+"e": "🏰",
+"op": [
+"Castillo",
+"Iglesia",
+"Faro"
+],
+"r": 0
+},
+{
+"e": "🪐",
+"op": [
+"Marte",
+"Saturno",
+"Luna"
+],
+"r": 1
+},
+{
+"e": "🦩",
+"op": [
+"Flamenco",
+"Cigüeña",
+"Garza"
+],
+"r": 0
+},
+{
+"e": "🌵",
+"op": [
+"Palmera",
+"Cactus",
+"Helecho"
+],
+"r": 1
+},
+{
+"e": "🧭",
+"op": [
+"Reloj",
+"Brújula",
+"Barómetro"
+],
+"r": 1
+},
+{
+"e": "🥐",
+"op": [
+"Cruasán",
+"Ensaimada",
+"Churro"
+],
+"r": 0
+},
+{
+"e": "🎺",
+"op": [
+"Trombón",
+"Tuba",
+"Trompeta"
+],
+"r": 2
+}
+]
+}
